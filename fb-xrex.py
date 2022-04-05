@@ -52,9 +52,9 @@ def banner():
 ┃     |_|   |____/          /_/\_\_| \_\_____/_/\_\     ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
 \033[96;1m┣[ \033[97;1mAUTH     \x1b[1;92m: CallMeZacky                           ]┫
-\033[96;1m┣[ \033[97;1mRECODING \x1b[1;92m: Zacky-XD                                 ]┫
+\033[96;1m┣[ \033[97;1mRECODING \x1b[1;92m: Callmezacky-XD                                 ]┫
 \033[96;1m┣[ \033[92;1mWHATSAPP \x1b[1;97m: GAK PUNYA                             ]┫
-\033[96;1m┣[ \033[97;1mGITHUB  \x1b[1;94m : https://github.com/Zacky-XD              ]┫
+\033[96;1m┣[ \033[97;1mGITHUB  \x1b[1;94m : https://github.com/Callmezacky-XD              ]┫
 \033[96;1m┣[ \033[91;1mYOUTUBE  \x1b[1;95m: GAK PUNYA                                ]┫
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\033[96;1m''')
 
